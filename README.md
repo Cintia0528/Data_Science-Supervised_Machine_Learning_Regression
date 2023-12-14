@@ -24,10 +24,10 @@ The project includes a **Google Colab notebook** containing the code for the reg
 - Data Exploration
 - Preprocessing
 - Python
-- *scikit-learn*
-- *XGBoost*
-- *LightGBM*
-- *LazyPredict*
+- scikit-learn
+- XGBoost
+- LightGBM
+- LazyPredict
 
 ## **Further Analysis:**
 To enhance the model's performance:
