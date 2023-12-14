@@ -35,4 +35,5 @@ To enhance the model's performance:
 - **Ensemble Techniques:** Experiment with different ensemble models or stacking approaches to leverage the strengths of multiple models.
 - **Advanced Hyperparameter Tuning:** Explore more advanced hyperparameter tuning techniques to fine-tune model parameters for better performance.
 - **External Data:** Consider incorporating external datasets to provide additional information and improve predictive accuracy.
+
 By focusing on these areas, the model's **R2** score and **RMSE** could potentially be further improved, providing more accurate predictions of home prices.
