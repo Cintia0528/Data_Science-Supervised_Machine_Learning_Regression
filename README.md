@@ -4,7 +4,7 @@
 The project aims to predict the prices of homes using *regression techniques*, evaluating the model's performance based on **R2** and **RMSE** metrics. The goal is to create a reliable model that **minimizes the deviation between predicted and actual home prices**.
 
 ## **Overview:**
-In this machine learning journey, I explored regression to predict home prices, moving beyond a binary classification whether a home is expensive or not. The focus shifted to evaluating the model's ability to approximate actual home values. I experimented with different models, **hyperparameter tuning, feature selection, and preprocessing techniques** to enhance predictive accuracy.
+In this machine learning journey, I explored regression to predict home prices, moving beyond a binary classification whether a home is expensive or not. The focus shifted to evaluating the model's ability to approximate actual home values. I experimented with **different models, hyperparameter tuning, feature selection, and preprocessing techniques** to enhance predictive accuracy.
 
 ## **Approach:**
 1. **Baseline Model:** Implemented a *DecisionTreeRegressor* with *RandomSearch* hyperparameter tuning as a baseline, achieving an initial R2 of 0.79.
