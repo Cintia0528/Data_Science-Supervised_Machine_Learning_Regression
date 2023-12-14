@@ -15,7 +15,7 @@ In this machine learning journey, I explored regression to predict home prices, 
 6. **Final Model:** Employed a VotingRegressor on the top predictive features identified by the ensemble of models, achieving a final R2 of close to 0.95.
 
 ## Deliverables:
-The project includes a Google Colab notebook containing the code for the regression analysis [here](notebook here). The findings and methodology are further explained in a detailed Medium article [here](https://medium.com/@ubp0528/how-close-can-i-get-to-your-homes-true-value-with-regression-4e708ba1662f).
+The project includes a Google Colab notebook containing the code for the regression analysis [here](https://github.com/Cintia0528/Project-8-Supervised-Machine-Learning-Regression/blob/ab4134a446ae810915e383f547aa33ae935c2efa/2_b_Housing_Feature_Selection.ipynb). The findings and methodology are further explained in a detailed Medium article [here](https://medium.com/@ubp0528/how-close-can-i-get-to-your-homes-true-value-with-regression-4e708ba1662f).
 
 ## Skills and Tools:
 - Regression modeling
